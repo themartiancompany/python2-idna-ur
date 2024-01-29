@@ -9,7 +9,7 @@ _py="python2"
 pkgname="${_py}-${_pkg}"
 pkgver=2.10
 pkgrel=4
-pkgdesc=(
+_pkgdesc=(
   "Internationalized Domain Names"
   "in Applications (IDNA)"
 )
